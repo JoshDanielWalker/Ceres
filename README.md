@@ -1,5 +1,7 @@
 
-# Ceres - Authentication 
+# Ceres 
+
+## Authentication - API
 
 [Ceres](https://en.wikipedia.org/wiki/Ceres_(dwarf_planet))
 
